@@ -196,7 +196,6 @@ int main() {
             }
         } while (choice != 0);
     } else {
-        printf("Pin yang anda masukkan salah\n");
         cout << "Pin yang anda masukkan salah\n" << endl;
     }
 }
